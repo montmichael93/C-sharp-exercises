@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\Exercises\Print Strings In Reverse\bin\Debug\Print Strings In Reverse.exe.config
+C:\Users\mikem\source\repos\Exercises\Print Strings In Reverse\bin\Debug\Print Strings In Reverse.exe
+C:\Users\mikem\source\repos\Exercises\Print Strings In Reverse\bin\Debug\Print Strings In Reverse.pdb
+C:\Users\mikem\source\repos\Exercises\Print Strings In Reverse\obj\Debug\Print Strings In Reverse.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\Exercises\Print Strings In Reverse\obj\Debug\Print Strings In Reverse.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\Exercises\Print Strings In Reverse\obj\Debug\Print Strings In Reverse.exe
+C:\Users\mikem\source\repos\Exercises\Print Strings In Reverse\obj\Debug\Print Strings In Reverse.pdb

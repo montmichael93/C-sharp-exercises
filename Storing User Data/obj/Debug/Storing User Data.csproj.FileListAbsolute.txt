@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\Exercises\Storing User Data\bin\Debug\Storing User Data.exe.config
+C:\Users\mikem\source\repos\Exercises\Storing User Data\bin\Debug\Storing User Data.exe
+C:\Users\mikem\source\repos\Exercises\Storing User Data\bin\Debug\Storing User Data.pdb
+C:\Users\mikem\source\repos\Exercises\Storing User Data\obj\Debug\Storing User Data.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\Exercises\Storing User Data\obj\Debug\Storing User Data.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\Exercises\Storing User Data\obj\Debug\Storing User Data.exe
+C:\Users\mikem\source\repos\Exercises\Storing User Data\obj\Debug\Storing User Data.pdb

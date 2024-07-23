@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\Exercises\odd even number split\bin\Debug\odd even number split.exe.config
+C:\Users\mikem\source\repos\Exercises\odd even number split\bin\Debug\odd even number split.exe
+C:\Users\mikem\source\repos\Exercises\odd even number split\bin\Debug\odd even number split.pdb
+C:\Users\mikem\source\repos\Exercises\odd even number split\obj\Debug\odd even number split.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\Exercises\odd even number split\obj\Debug\odd even number split.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\Exercises\odd even number split\obj\Debug\odd even number split.exe
+C:\Users\mikem\source\repos\Exercises\odd even number split\obj\Debug\odd even number split.pdb

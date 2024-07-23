@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\Exercises\Fizz Buzz Game\bin\Debug\Fizz Buzz Game.exe.config
+C:\Users\mikem\source\repos\Exercises\Fizz Buzz Game\bin\Debug\Fizz Buzz Game.exe
+C:\Users\mikem\source\repos\Exercises\Fizz Buzz Game\bin\Debug\Fizz Buzz Game.pdb
+C:\Users\mikem\source\repos\Exercises\Fizz Buzz Game\obj\Debug\Fizz Buzz Game.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\Exercises\Fizz Buzz Game\obj\Debug\Fizz Buzz Game.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\Exercises\Fizz Buzz Game\obj\Debug\Fizz Buzz Game.exe
+C:\Users\mikem\source\repos\Exercises\Fizz Buzz Game\obj\Debug\Fizz Buzz Game.pdb

@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\Exercises\Array of multiples\bin\Debug\Array of multiples.exe.config
+C:\Users\mikem\source\repos\Exercises\Array of multiples\bin\Debug\Array of multiples.exe
+C:\Users\mikem\source\repos\Exercises\Array of multiples\bin\Debug\Array of multiples.pdb
+C:\Users\mikem\source\repos\Exercises\Array of multiples\obj\Debug\Array of multiples.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\Exercises\Array of multiples\obj\Debug\Array of multiples.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\Exercises\Array of multiples\obj\Debug\Array of multiples.exe
+C:\Users\mikem\source\repos\Exercises\Array of multiples\obj\Debug\Array of multiples.pdb

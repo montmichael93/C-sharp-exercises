@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\Exercises\Times Tables\bin\Debug\Times Tables.exe.config
+C:\Users\mikem\source\repos\Exercises\Times Tables\bin\Debug\Times Tables.exe
+C:\Users\mikem\source\repos\Exercises\Times Tables\bin\Debug\Times Tables.pdb
+C:\Users\mikem\source\repos\Exercises\Times Tables\obj\Debug\Times Tables.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\Exercises\Times Tables\obj\Debug\Times Tables.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\Exercises\Times Tables\obj\Debug\Times Tables.exe
+C:\Users\mikem\source\repos\Exercises\Times Tables\obj\Debug\Times Tables.pdb

@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\Exercises\odd even checker\bin\Debug\odd even checker.exe.config
+C:\Users\mikem\source\repos\Exercises\odd even checker\bin\Debug\odd even checker.exe
+C:\Users\mikem\source\repos\Exercises\odd even checker\bin\Debug\odd even checker.pdb
+C:\Users\mikem\source\repos\Exercises\odd even checker\obj\Debug\odd even checker.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\Exercises\odd even checker\obj\Debug\odd even checker.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\Exercises\odd even checker\obj\Debug\odd even checker.exe
+C:\Users\mikem\source\repos\Exercises\odd even checker\obj\Debug\odd even checker.pdb
